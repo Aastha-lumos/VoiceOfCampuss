@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+transformers
+torch>=2.6
+scikit-learn
